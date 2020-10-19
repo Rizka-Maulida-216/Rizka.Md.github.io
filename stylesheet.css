@@ -87,6 +87,7 @@ ul {
 ul li {
 	display:block;
 	padding:10px;
+	border:2px solid lavender;
 }
 
 aside {
@@ -98,7 +99,7 @@ aside {
 aside section li {
 	display:block;
 	padding:10px;
-	border-bottom: 1px solid #eeeeee;
+	border:2px solid lavender;
 }
 
 li {
